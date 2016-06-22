@@ -1,4 +1,15 @@
-/target/
-.classpath
-.project
-.settings
+#IDEA Files
+.idea
+target
+*.iml
+*.ipr
+
+#Eclipse files
+*.settings
+*.classpath
+*.project
+*.pydevproject
+
+#Node
+node_modules
+npm-debug.log
