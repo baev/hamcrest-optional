@@ -9,7 +9,7 @@
         <version>1.2</version>
     </parent>
 
-    <groupId>com.github.npathai</groupId>
+    <groupId>com.github.baev</groupId>
     <artifactId>hamcrest-optional</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>

@@ -3,6 +3,16 @@ An extension to [Java Hamcrest](https://github.com/hamcrest/JavaHamcrest) which 
 
 ## Usage
 
+The artifact available at Maven Central:
+
+```xml
+<dependency>
+    <groupId>com.github.baev</groupId>
+    <artifactId>hamcrest-optional</artifactId>
+    <version>1.0</version>
+</dependency>
+```
+
 hamcrest-optional provides four matchers for `Optional`: `isEmpty()`,
 `isPresent()`, `hasValue(Object)` and `hasValue(Matcher)`.
 
