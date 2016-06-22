@@ -9,7 +9,7 @@ An extension to [Java Hamcrest](https://github.com/hamcrest/JavaHamcrest) which 
 
 ## Usage
 
-The artifact available at Maven Central:
+The artifact is available at Maven Central:
 
 ```xml
 <dependency>
