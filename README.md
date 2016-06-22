@@ -1,4 +1,10 @@
 # Hamcrest Optional
+
+[![release](http://github-release-version.herokuapp.com/github/baev/hamcrest-optional/release.svg?style=flat)](https://github.com/baev/hamcrest-optional/releases/latest)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.baev/hamcrest-optional/badge.svg?style=flat)](https://maven-badges.herokuapp.com/maven-central/com.github.baev/hamcrest-optional)
+[![build](https://img.shields.io/jenkins/s/http/ci.qatools.ru/hamcrest-optional_master-deploy.svg?style=flat)](http://ci.qatools.ru/job/hamcrest-optional_master-deploy/lastBuild/)
+[![covarage](https://img.shields.io/sonar/http/sonar.qatools.ru/com.github.baev:hamcrest-optional/coverage.svg?style=flat)](http://sonar.qatools.ru/dashboard/index/com.github.baev:hamcrest-optional)
+
 An extension to [Java Hamcrest](https://github.com/hamcrest/JavaHamcrest) which provides matchers for `java.util.Optional`.
 
 ## Usage
